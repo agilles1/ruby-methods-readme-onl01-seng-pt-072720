@@ -5,4 +5,5 @@ def greeting(x)
   x += 1
 end
 
-greeting
+greeting(x)
+
