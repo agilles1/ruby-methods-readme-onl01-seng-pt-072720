@@ -6,4 +6,4 @@ def greeting(x)
 end
 end
 
-greeting(x)
+greeting
