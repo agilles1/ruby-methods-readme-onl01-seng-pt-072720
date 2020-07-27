@@ -4,5 +4,6 @@ def greeting(x)
   puts "Hello World"
   x += 1
 end
+end
 
 greeting(x)
