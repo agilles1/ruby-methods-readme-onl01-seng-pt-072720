@@ -1,4 +1,4 @@
-def greeting(x) 
+def greeting(x)
   x == 0
   until x == 2
   puts "Hello World"
