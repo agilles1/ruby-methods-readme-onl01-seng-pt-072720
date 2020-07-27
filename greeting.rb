@@ -6,4 +6,3 @@ def greeting(x)
 end
 
 greeting(x)
-
