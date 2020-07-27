@@ -7,4 +7,3 @@ end
 end
 
 greeting(0)
-
