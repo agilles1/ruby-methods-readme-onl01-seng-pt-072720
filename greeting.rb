@@ -6,4 +6,4 @@ def greeting
 end
 end
 
-greeting(0)
+greeting
